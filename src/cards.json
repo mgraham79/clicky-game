@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/groot-guardian.jpeg", 
+        "name": "Groot"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/starlord-guardian.jpg", 
+        "name": "Star Lord"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/rocket-guardian.jpg", 
+        "name": "Rocket"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/gamora-guardian.jpg", 
+        "name": "Gamora"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/drax-guardian.jpg", 
+        "name": "Drax"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/nebula-guardian.jpg", 
+        "name": "Nebula"
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/mantis-guardian.png", 
+        "name": "Mantis"
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/yondu-guardian.jpg", 
+        "name": "Yondu"
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/ego-guardian.jpg", 
+        "name": "Ego"
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/thanos-guardian.jpg", 
+        "name": "Thanos"
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/collector-guardian.jpg", 
+        "name": "The Collector"
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/ayesha-guardian.png", 
+        "name": "Ayesha"
+    }
+]
