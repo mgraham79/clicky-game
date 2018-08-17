@@ -3,7 +3,7 @@ import "./Card.css";
 
 const Card = props => (
     <div key={props.id}
-        className="col-sm-4 gua-card"
+        className="col-sm-3 gua-card"
         style={{ backgroundImage: `url("${props.image}")`}}
         onClick={() => props.getCharacter(props.id)}
         >

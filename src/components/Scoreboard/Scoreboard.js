@@ -3,10 +3,9 @@ import "./Scoreboard.css";
 
 const Scoreboard = props => (
     <div className="jumbotron">
-        <img src="../../../assets/images/guardians-logo.jpg" />
         <h2>Clicky Game</h2>
-        <p>Character Matches: {props.matches}</p>
-        <p>Character Guesses: {props.guesses}</p>
+        <p className="matches">Character Matches: {props.matches}</p>
+        <p className="guesses">Character Guesses: {props.guesses}</p>
     </div>
 );
 

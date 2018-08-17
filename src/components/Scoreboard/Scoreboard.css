@@ -1,23 +1,32 @@
 .jumbotron {
+    background-size: contain;
+    background-image: url("guardians-logo.jpg");
     background-color: black;
-    margin-top: 10px;
-    height: 350px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h2 {
     position: relative;
     text-align: center;
+    margin-top: 180px;
     color: skyblue;
+    height: 40px;
 }
 
-p {
-    position: relative;
-    text-align: center;
+.matches {
+    position: absolute;
+    text-align: left;
     color: red;
+    top: 220px;
+    font-size: 30px
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.guesses {
+    position: absolute;
+    text-align: left;
+    color: red;
+    top: 255px;
+    font-size: 30px;
 }
